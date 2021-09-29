@@ -23,12 +23,14 @@ micah.saxton@tufts.edu
 * Musical instruments (Lilly Music Library)
 * Art Supplies (SMFA Library)
 
+
 ### 2. JumboSearch and the library catalog
 
 #### Searching JumboSearch
 * Keywords ("Any field")
 * Limit search results
 * Subject terms
+
 
 ### 3. Databases!
 
@@ -43,8 +45,9 @@ There is no perfect database
 
 ### 4. Tisch library can be a portal to other libraries
 * Interlibrary loan
-* [Boston Library Consortium (BL9C)](https://blc.org/)
+* [Boston Library Consortium (BLC)](https://blc.org/)
 * [Boston Public Library e-card](https://www.bpl.org/ecard/)
+
 
 ### 5. Google Scholar and Tisch Library
 
@@ -55,7 +58,7 @@ There is no perfect database
 * [Google Scholar](https://scholar.google.com/) is more useful for finding scholarly literature than the main Google search.
 
 
-### Remember, I'm here to help with this process.
+### Remember, I'm here to help with your research.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
 micah.saxton@tufts.edu
