@@ -24,12 +24,24 @@ micah.saxton@tufts.edu
 * Art Supplies (SMFA Library)
 
 
-### 2. JumboSearch and the library catalog
+### 2. Searching, searching, searching
 
-#### Searching JumboSearch
-* Keywords ("Any field")
-* Limit search results
-* Subject terms
+#### Search scopes
+* Tisch Library offers several options to search for books and articles
+    * JumboSearch
+    * Library catalog
+    * Libraries worldwide
+
+#### From keywords to subject terms
+* Keywords ("Any field") searches:
+    * title
+    * author
+    * table of contents / summary (if available)
+    * subjects
+
+* **Subject terms** are controlled vocabularies assigned to items by librarians. Subject searches may return fewer items, but the results are usually more relevant.
+
+* Begin searching with keywords, but then search with the subject terms assigned to your best keyword results.
 
 
 ### 3. Databases!
