@@ -11,9 +11,9 @@ micah.saxton@tufts.edu
 
 #### Services
 * Research support
-* Digital Design Studio
-* Data Lab
-* StAAR Center
+* [Digital Design Studio](https://tischlibrary.tufts.edu/our-locations/also-tisch/digital-design-studio-dds)
+* [Data Lab](https://sites.tufts.edu/datalab/)
+* [StAAR Center](https://students.tufts.edu/staar-center)
 
 #### Stuff
 * Media Equipment
